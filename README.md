@@ -3,7 +3,9 @@ This is an Arduino based project to control light colors and animationd in a 3D 
 
 The project uses the [Adafruit NeoPixel library](https://github.com/adafruit/Adafruit_NeoPixel) and it has been tested in an Arduino Uno board with an ATmega328P processor. It is compatible with the [Adafruit ProTrinket 5v](https://www.adafruit.com/products/2000).
 
-The STL files for the vase and flower models will be available in www.thingiverse.com in the next few weeks. A youtube playlist detailing the development process will be available shortly as well.
+The STL files for the [vase](../master/rose-vase_FINAL.stl) and [flower](../master/rose-petals_FINAL.stl) models are based on models from www.thingiverse.com. The vase is a remix of ["Wave Vase" by didierkl](http://www.thingiverse.com/thing:983438), and the flower is a remix of ["Make a rose for your girl" by hansliu](http://www.thingiverse.com/thing:663065). For more details about the 3D printing specifications visit my [thingiverse account](http://www.thingiverse.com/jrclem/designs). They will be available in the next few days.
+
+A youtube playlist detailing the development process will be available shortly as well.
 
 ###Operation:
 
@@ -43,3 +45,10 @@ Do not leave lights turned off while the slide switch in the "on" position for a
 6. Solder components to board according to the schema while ensuring that they fit in the 3D printed insert.
 7. Screw the insert into the vase, and lightly glue in place.
 8. Plug in and test the assmebly
+
+
+
+----------
+If you would like to donate to my Grad School Fund, you can do so via Paypal at <https://www.paypal.me/jrclem>.
+
+Thank you very much for your support!
