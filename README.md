@@ -1,5 +1,5 @@
 # LightUpVase
-This is an Arduino based project to control light colors and animationd in a 3D printed vase and rose.
+This is an Arduino based project to control light colors and animationd in a 3D printed vase and rose. I originally made it for my girlfriend as an anniversary gift, but I thought people might like to make their own.
 
 The project uses the [Adafruit NeoPixel library](https://github.com/adafruit/Adafruit_NeoPixel) and it has been tested in an Arduino Uno board with an ATmega328P processor. It is compatible with the [Adafruit ProTrinket 5v](https://www.adafruit.com/products/2000).
 
@@ -21,7 +21,7 @@ Do not leave lights turned off while the slide switch in the "on" position for a
 
 1. 1x [Arduino ProTrinket 5v](https://www.adafruit.com/products/2000)
 2. 1x [Arduino RGB Neopixel Ring 16x](https://www.adafruit.com/products/1463)
-3. 1x Arduino RGB Neopixel (single)
+3. 1x [Arduino RGB Neopixel](https://www.adafruit.com/products/1260)
 4. 1x 5.5mmx2.1mm female barrel jack power adapter
 5. 1x slide switch
 6. 1x 6mmx6mm push button
@@ -38,13 +38,17 @@ Do not leave lights turned off while the slide switch in the "on" position for a
 1. Solder 3 green wires to the 5v, Din, and GND leads in the single Neopixel.
  * Make sure the wires are at least 180cm long to account for the twisting.
 2. Insert Neopixel and cable through stem. Strip wires and glue exposed wires to the groves in the stem.
- * Clockwise starting at the fin of the stem place: 5V, Din, and GND.
+ * Clockwise starting at the fin of the stem base: 5V, Din, and GND.
 3. Glue the petals to the stem using plenty of CA glue.
 4. Solder wires to the 5v, Din, and GND leads in the Neopixel Ring.
-5. Load [vase.ino](../master/vase.ino) into the ProTrinket
-6. Solder components to board according to the schema while ensuring that they fit in the 3D printed insert.
-7. Screw the insert into the vase, and lightly glue in place.
-8. Plug in and test the assmebly
+5. Solder wires to the 3 battery plates.
+6. Cut and mold the plates to fit separately in the stem coupler.
+7. Load [vase.ino](../master/vase.ino) into the ProTrinket.
+8. Solder components to board according to the [schematics](../master/LightUpVase-Schematics.png).
+ * Ensure that all components fit in the 3D printed insert while you trim and solder wires in place.
+9. Glue the button, switch, power adaptor, and wired battery plates in place using CA glue or resin.
+10. Screw the insert into the vase, and lightly glue in place.
+11. Plug in and test the assmebly
 
 
 
