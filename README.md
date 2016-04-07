@@ -23,7 +23,7 @@ Do not leave lights turned off while the slide switch in the "on" position for a
 4. 1x 5.5mmx2.1mm female barrel jack power adapter
 5. 1x slide switch
 6. 1x 6mmx6mm push button
-7. 4. 1x 1000&mu;F capacitor
+7. 1x 1000&mu;F capacitor
 8. 2x 510&ohm; resistor
 9. 3x battery contact plates (or a similar thin conductive metal)
 10. 1x 5v, 2A power supply with 5.5mmx2.1mm plug
