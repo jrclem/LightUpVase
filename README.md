@@ -5,7 +5,7 @@ The project uses the [Adafruit NeoPixel library](https://github.com/adafruit/Ada
 
 The STL files for the [vase](../master/rose-vase_FINAL.stl) and [flower](../master/rose-petals_FINAL.stl) models are based on models from www.thingiverse.com. The vase is a remix of ["Wave Vase" by didierkl](http://www.thingiverse.com/thing:983438), and the flower is a remix of ["Make a rose for your girl" by hansliu](http://www.thingiverse.com/thing:663065). For more details about the 3D printing specifications visit my [thingiverse account](http://www.thingiverse.com/jrclem/designs). They will be available in the next few days.
 
-A youtube playlist detailing the development process will be available shortly as well.
+A youtube playlist detailing the development process will be available [here](http://bit.ly/2cJCIvM).
 
 ###Operation:
 
@@ -53,6 +53,6 @@ Do not leave lights turned off while the slide switch in the "on" position for a
 
 
 ----------
-If you would like to donate to my Grad School Fund, you can do so via Paypal at <https://www.paypal.me/jrclem>.
+If you would like to donate to my Grad School Fund, you can do so via [GoFundMe](http://bit.ly/2dqhotO) or [Paypal](http://bit.ly/2d2jKQU).
 
 Thank you very much for your support!
